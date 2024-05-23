@@ -50,6 +50,12 @@ build_metadata.AdditionalFiles.ManifestResourceName = maui.MainPage.xaml
 build_metadata.AdditionalFiles.TargetPath = MainPage.xaml
 build_metadata.AdditionalFiles.RelativePath = MainPage.xaml
 
+[/Users/juandavidzapatarobledo/Documents/GitHub/maui/maui/PresentationControls.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = maui.PresentationControls.xaml
+build_metadata.AdditionalFiles.TargetPath = PresentationControls.xaml
+build_metadata.AdditionalFiles.RelativePath = PresentationControls.xaml
+
 [/Users/juandavidzapatarobledo/Documents/GitHub/maui/maui/Resources/Styles/Colors.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = maui.Resources.Styles.Colors.xaml
@@ -61,3 +67,9 @@ build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = maui.Resources.Styles.Styles.xaml
 build_metadata.AdditionalFiles.TargetPath = Resources/Styles/Styles.xaml
 build_metadata.AdditionalFiles.RelativePath = Resources/Styles/Styles.xaml
+
+[/Users/juandavidzapatarobledo/Documents/GitHub/maui/maui/TabbedPageDemo.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = maui.TabbedPageDemo.xaml
+build_metadata.AdditionalFiles.TargetPath = TabbedPageDemo.xaml
+build_metadata.AdditionalFiles.RelativePath = TabbedPageDemo.xaml
