@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="maui.CommandsControlsDemo"
+             Title="CommandsControlsDemo">
+    <ScrollView>
+
+    <VerticalStackLayout VerticalOptions="Center" 
+            HorizontalOptions="CenterAndExpand"
+            Spacing="10">
+        <Button 
+            Text="click me"
+            x:Name="btnTest"
+            Clicked="btnTest_Clicked"/>
+        <ImageButton Source="dotnet_bot.svg"
+                     Clicked="btnTest_Clicked"/>
+        <Frame>
+            <VerticalStackLayout>
+                <RadioButton Content="Hombre" GroupName="genero"/>
+                <RadioButton Content="Mujer" GroupName="genero"/>
+            </VerticalStackLayout>
+        </Frame>
+        <Frame>
+            <VerticalStackLayout>
+                <RadioButton Content="Nacional" GroupName="Equipo"
+                             CheckedChanged="RadioButton_CheckedChanged"/>
+                <RadioButton Content="Medellin" GroupName="Equipo"
+                             CheckedChanged="RadioButton_CheckedChanged"/>
+            </VerticalStackLayout>
+        </Frame>
+            <SwipeView>
+                <SwipeView.LeftItems>
+                    <SwipeItem BackgroundColor="LightGreen"
+                               Text="favorite"
+                               IconImageSource="dotnet_bot.svg"
+                               Invoked="SwipeItem_Invoked">
+                    </SwipeItem>
+                </SwipeView.LeftItems>
+
+            <Grid Background="Silver"
+                          HeightRequest="200">
+                        <Label Text="deslizame"
+                               FontSize="Title"
+                               WidthRequest="300"
+                               HorizontalTextAlignment="Center"/>
+
+                    </Grid>
+            </SwipeView>
+        
+    </VerticalStackLayout>
+
+    </ScrollView>
+</ContentPage>
