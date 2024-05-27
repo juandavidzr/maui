@@ -14,6 +14,12 @@ build_property.IncludeAllContentForSelfExtract =
 build_property.RootNamespace = maui
 build_property.ProjectDir = /Users/juandavidzapatarobledo/Documents/GitHub/maui/maui/
 
+[/Users/juandavidzapatarobledo/Documents/GitHub/maui/maui/ActivityContols.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = maui.ActivityContols.xaml
+build_metadata.AdditionalFiles.TargetPath = ActivityContols.xaml
+build_metadata.AdditionalFiles.RelativePath = ActivityContols.xaml
+
 [/Users/juandavidzapatarobledo/Documents/GitHub/maui/maui/AnotherPage.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = maui.AnotherPage.xaml
@@ -32,6 +38,12 @@ build_metadata.AdditionalFiles.ManifestResourceName = maui.AppShell.xaml
 build_metadata.AdditionalFiles.TargetPath = AppShell.xaml
 build_metadata.AdditionalFiles.RelativePath = AppShell.xaml
 
+[/Users/juandavidzapatarobledo/Documents/GitHub/maui/maui/CollectionsControls.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = maui.CollectionsControls.xaml
+build_metadata.AdditionalFiles.TargetPath = CollectionsControls.xaml
+build_metadata.AdditionalFiles.RelativePath = CollectionsControls.xaml
+
 [/Users/juandavidzapatarobledo/Documents/GitHub/maui/maui/CommandsControlsDemo.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = maui.CommandsControlsDemo.xaml
@@ -49,6 +61,12 @@ build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = maui.FlyoutPageDemo.xaml
 build_metadata.AdditionalFiles.TargetPath = FlyoutPageDemo.xaml
 build_metadata.AdditionalFiles.RelativePath = FlyoutPageDemo.xaml
+
+[/Users/juandavidzapatarobledo/Documents/GitHub/maui/maui/InputControlls.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = maui.InputControlls.xaml
+build_metadata.AdditionalFiles.TargetPath = InputControlls.xaml
+build_metadata.AdditionalFiles.RelativePath = InputControlls.xaml
 
 [/Users/juandavidzapatarobledo/Documents/GitHub/maui/maui/MainPage.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
@@ -79,3 +97,9 @@ build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = maui.TabbedPageDemo.xaml
 build_metadata.AdditionalFiles.TargetPath = TabbedPageDemo.xaml
 build_metadata.AdditionalFiles.RelativePath = TabbedPageDemo.xaml
+
+[/Users/juandavidzapatarobledo/Documents/GitHub/maui/maui/TestContols.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = maui.TestContols.xaml
+build_metadata.AdditionalFiles.TargetPath = TestContols.xaml
+build_metadata.AdditionalFiles.RelativePath = TestContols.xaml

@@ -6,7 +6,7 @@ public partial class App : Application
 	{
 		InitializeComponent();
 
-        MainPage = new NavigationPage (new CommandsControlsDemo());
+        MainPage = new NavigationPage (new CollectionsControls());
 
         //var navPage = new NavigationPage(new ContentPageDemo());
         //navPage.BarBackgroundColor = Colors.Chocolate;
