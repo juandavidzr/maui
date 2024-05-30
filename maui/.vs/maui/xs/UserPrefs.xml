@@ -1,4 +1,62 @@
 ﻿<Properties StartupConfiguration="{54B752FD-1C95-442F-99BB-9D7FD33BB3A9}|Default">
-  <MonoDevelop.Ide.ItemProperties.maui FirstBuild="True" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="CollectionsControls.xaml">
+    <Files>
+      <File FileName="MainPage.xaml.cs" />
+      <File FileName="MainPage.xaml" />
+      <File FileName="ContentPageDemo.xaml" />
+      <File FileName="ContentPageDemo.xaml.cs" />
+      <File FileName="App.xaml" />
+      <File FileName="App.xaml.cs" />
+      <File FileName="AnotherPage.xaml" />
+      <File FileName="AnotherPage.xaml.cs" />
+      <File FileName="FlyoutPageDemo.xaml" />
+      <File FileName="FlyoutPageDemo.xaml.cs" />
+      <File FileName="TabbedPageDemo.xaml" />
+      <File FileName="TabbedPageDemo.xaml.cs" />
+      <File FileName="PresentationControls.xaml" />
+      <File FileName="CommandsControlsDemo.xaml" />
+      <File FileName="CommandsControlsDemo.xaml.cs" />
+      <File FileName="InputControlls.xaml" />
+      <File FileName="InputControlls.xaml.cs" />
+      <File FileName="Resources/Styles/Colors.xaml" />
+      <File FileName="TestContols.xaml" />
+      <File FileName="ActivityContols.xaml" />
+      <File FileName="CollectionsControls.xaml" Line="40" Column="34" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="maui">
+            <Node name="maui" selected="True">
+              <Node name="Dependencies" expanded="True">
+                <Node name="net7.0-ios" expanded="True">
+                  <Node name="PackageDependencies" expanded="True" />
+                </Node>
+                <Node name="net7.0-maccatalyst" expanded="True">
+                  <Node name="PackageDependencies" expanded="True">
+                    <Node name="Microsoft.Extensions.Logging.Debug" expanded="True" />
+                  </Node>
+                </Node>
+              </Node>
+              <Node name="CommandsControlsDemo.xaml" expanded="True" />
+              <Node name="ContentPageDemo.xaml" expanded="True" />
+              <Node name="FlyoutPageDemo.xaml" expanded="True" />
+              <Node name="InputControlls.xaml" expanded="True" />
+              <Node name="MainPage.xaml" expanded="True" />
+              <Node name="TabbedPageDemo.xaml" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <Xamarin.Addins.Core.Project ActiveDebugTarget="MonoDevelop.IPhone.IPhoneDeviceTarget" />
+  <MonoDevelop.MonoDroid LastDeploySdkVersion="33.0.95" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.maui PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneDeviceTarget" />
   <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
 </Properties>
